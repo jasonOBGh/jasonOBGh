@@ -92,6 +92,21 @@ graph LR
     style E fill:#EF4444
 ```
 
+### 🔥 Building Momentum
+
+<div align="center">
+
+| 📊 Metric | 🎯 Status |
+|:---|:---:|
+| **Total Contributions (Last Year)** | ![215](https://img.shields.io/badge/215-Commits-success?style=for-the-badge) |
+| **February 2026 Commits** | ![74](https://img.shields.io/badge/74-Active-brightgreen?style=for-the-badge) |
+| **Active Repositories** | ![3](https://img.shields.io/badge/3-Projects-blue?style=for-the-badge) |
+| **Development Phase** | ![Rapid](https://img.shields.io/badge/Rapid-Development-orange?style=for-the-badge) |
+
+</div>
+
+**Current Focus:** `Edureportgh-landing` (42 commits) • `report-portal` (29 commits) • Building in public 🚀
+
 ---
 
 ## 💻 Tech Arsenal
@@ -118,6 +133,24 @@ graph LR
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Organizations & Contributions
+
+I actively contribute to multiple projects and organizations:
+
+<div align="center">
+
+| Organization | Role | Focus Area |
+|:---|:---:|:---|
+| **🎓 EduReportGh** | Founder & Lead Dev | Academic reporting platform for schools |
+| **🧭 uni-compass** | Contributor | University navigation & guidance |
+| **🚗 4AutoCare** | Contributor | Automotive service solutions |
+
+**Also contributing to:** `report-portal`, `Edureportgh-landing`, and other projects
 
 </div>
 
@@ -178,19 +211,24 @@ const expertise = {
 ## 🌟 My Journey
 
 ```
-2024 ─────────────► 2025 ─────────────► 2026
-  │                   │                   │
-  │                   │                   ├─► Scale to 100+ Schools
-  │                   │                   ├─► Full Platform Launch
-  │                   │                   └─► Expand to Other African Countries
-  │                   │
-  │                   ├─► Beta Launch with 10 Schools
-  │                   ├─► Complete Parent Portal
-  │                   └─► Build Admin Dashboard
-  │
-  ├─► Founded EduReportGh
-  ├─► Identified Market Gap
-  └─► Started Development
+Nov 2025 ──────────► Dec 2025 ──────────► Feb 2026 ──────────► Q2 2026
+    │                    │                     │                   │
+    │                    │                     │                   ├─► Scale to 100+ Schools
+    │                    │                     │                   ├─► Full Platform Launch
+    │                    │                     │                   └─► Expand Across Ghana
+    │                    │                     │
+    │                    │                     ├─► 215 Contributions & Counting
+    │                    │                     ├─► 74 Commits in Feb (So Far!)
+    │                    │                     ├─► Building at Record Pace
+    │                    │                     └─► Parent Portal + Landing Page
+    │                    │
+    │                    ├─► Joined EduReportGh Organization
+    │                    ├─► Rapid Development Phase
+    │                    └─► Infrastructure Setup Complete
+    │
+    ├─► Founded EduReportGh
+    ├─► Started Building
+    └─► First Commits
 ```
 
 ---
